@@ -1,0 +1,4 @@
+rateAmovie
+==========
+
+rateAmovie
